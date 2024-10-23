@@ -1,2 +1,2 @@
 # Advance-Software-Development
-### Software is a collection of programs 
+### Software: It is a collection of programs 
